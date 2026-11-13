@@ -1,4 +1,4 @@
-package Ejercicicio2_T16;
+package Ejercicio2_T16;
 
 public class DocumentoPDF extends Documento {
     public DocumentoPDF(String contenido) {

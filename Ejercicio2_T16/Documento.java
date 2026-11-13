@@ -1,4 +1,4 @@
-package Ejercicicio2_T16;
+package Ejercicio2_T16;
 
 public abstract class Documento {
     protected String contenido;
