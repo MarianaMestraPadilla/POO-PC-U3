@@ -1,4 +1,4 @@
-package Ejercicio4;
+package ejercicio4_taller14;
 
 public class Vehiculo {
     public void mover() {

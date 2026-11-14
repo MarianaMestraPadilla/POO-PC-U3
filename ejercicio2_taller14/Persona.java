@@ -1,4 +1,4 @@
-package ejercicio2;
+package ejercicio2_taller14;
 
 public class Persona {
     public void presentarse() {
