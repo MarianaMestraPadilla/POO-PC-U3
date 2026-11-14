@@ -1,4 +1,4 @@
-package ejercicio2;
+package ejercicio2_taller15;
 
 public class ProductoMonolitico {
     private String nombre;

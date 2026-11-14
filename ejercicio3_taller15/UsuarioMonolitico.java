@@ -1,4 +1,4 @@
-package ejercicio3;
+package ejercicio3_taller15;
 
 public class UsuarioMonolitico {
     private String correo;
