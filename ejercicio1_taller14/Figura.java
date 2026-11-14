@@ -1,4 +1,4 @@
-package ejercicio1;
+package ejercicio1_taller14;
 
 public class Figura {
     public void calcularArea() {
